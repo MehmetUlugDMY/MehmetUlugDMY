@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MehmetUlugDMY
-- 👀 I’m interested in Nuvoton M031 controller and create PWM signal
+- 👀 I’m interested in Nuvoton M031 controller to communicate with AMT630A LCD driver chip
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me m.ulug@dmyeoa.com.tr
